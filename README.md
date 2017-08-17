@@ -1,5 +1,5 @@
 # Sudoku-Game
-Game Bulid By Java Swing Using Back Tracking Alogrithm 
+Game Build By Java Swing Using Back Tracking Algorithm 
 ## Featres 
-1. Solve existing Sudoku 
-2. Play new Game With Options For Difficulty
+1. Solve existing Sudoku
+2. Play new Game with Options For Difficulty
